@@ -1,5 +1,3 @@
-// This line tells Next.js to render this page on the client side,
-// which is required for Chart.js
 "use client";
 
 // Import necessary libraries
