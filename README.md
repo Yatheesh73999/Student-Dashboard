@@ -89,7 +89,7 @@ Open your browser at 👉 **http://localhost:3000**
 
 ## 🌍 Live Demo  
 
-🔗 [**View Dashboard on Vercel**](#) *(Insert deployed link here)*  
+🔗 [**View Dashboard on Vercel**](http://student-dashboard-n41t-lt0get45u-yatheesh-s-projects.vercel.app))  
 
 ---
 
